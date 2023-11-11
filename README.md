@@ -26,7 +26,7 @@ This bash script is designed to search for directories and/or files within a spe
 
 ## Parameters
 
-- <search_startAt>: The starting directory for the search.
+- **<search_startAt>**: The starting directory for the search.
 #### Optional-Parameters
 - **-name <target_name>**: Search for items with a specific name.
 - **-type <target_type>**: Filter items based on type ('f' for files, 'd' for directories).
